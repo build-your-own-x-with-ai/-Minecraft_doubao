@@ -6,6 +6,12 @@ Madge](https://www.doubao.com/code/launch/detail/37893120514)
 
 一个基于Three.js构建的简化版我的世界3D场景，包含可交互的环境和动画人物。
 
+Demo 地址：<https://build-your-own-x-with-ai.github.io/-Minecraft_doubao/>
+
+## 截图
+
+![Minecraft](./screenshots/Minecraft.png)
+
 ## 功能特性
 
 - 🌍 3D世界场景，包含草地、树木、房屋和城堡
